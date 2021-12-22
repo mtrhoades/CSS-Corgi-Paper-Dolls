@@ -29,3 +29,8 @@
 .top-hat {
     z-index: 1;
 }
+.collar {
+    position: absolute;
+    top: 192px;
+    left: 15px;
+}
